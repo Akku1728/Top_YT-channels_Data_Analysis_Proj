@@ -1,6 +1,6 @@
 # Top UK YouTube Channel Data Analysis Project
 ## Objective :
-The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
+The Head of Marketing of an organisation wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
 
 Objective is to create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their:
 -	subscriber count
